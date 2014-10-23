@@ -4,3 +4,5 @@ speend = 0
 speend ?= 15
 
 footprints = yeti ? "bear"
+
+zip = lottery.drawWinner?().address?.zipcode
